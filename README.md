@@ -30,7 +30,8 @@ from streamlit_option_menu import option_menu
 3. Upload file: The Admin can upload bulk product details
 4. Text in the card will be extracted and stored in a database
 
-
+**Step 5:** **Streamlit app**
+	Shopping world e-commerce site: https://ecomwebsite.streamlit.app/
 
 
 
